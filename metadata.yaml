@@ -1,0 +1,58 @@
+_repo: His-Last-Bow--An-Epilogue-of-Sherlock-Holmes_2350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: "\"His Last Bow\", published in September 1917, is one of 56 short stories\
+  \ about Sherlock Holmes written by Sir Arthur Conan Doyle. It was first published\
+  \ in Strand Magazine, and, amongst six other stories, was collected in an anthology\
+  \ titled His Last Bow, also called Reminiscences of Mr. Sherlock Holmes. The narration\
+  \ is in the third person, instead of the first person narration usually provided\
+  \ by the character of Dr. Watson, and it is a spy story, rather than a detective\
+  \ mystery. Due to its portrayal of British and German spies, its publication during\
+  \ the First World War and its patriotic themes, the story has been interpreted as\
+  \ a propaganda tool intended to boost morale for British readers.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2350'
+  wikidata: Q2573817
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'His Last Bow: An Epilogue of Sherlock Holmes'
+url: http://www.gutenberg.org/ebooks/2350
+wikipedia:
+- https://et.wikipedia.org/wiki/Viimane_kummardus_(jutustus)
+- https://fr.wikipedia.org/wiki/Son_dernier_coup_d%27archet_(nouvelle)
+- https://sh.wikipedia.org/wiki/His_Last_Bow_(pri%C4%8Da)
+- https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BE%8C%E8%87%B4%E6%84%8F_(%E6%95%85%E4%BA%8B)
+- https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BE%8C%E3%81%AE%E6%8C%A8%E6%8B%B6
+- https://pl.wikipedia.org/wiki/Jego_ostatni_uk%C5%82on_(opowiadanie)
+- https://en.wikipedia.org/wiki/His_Last_Bow_(short_story)
+- https://es.wikipedia.org/wiki/Su_%C3%BAltimo_saludo_en_el_escenario
+- https://en.wikisource.org/wiki/His_Last_Bow.-_The_War_Service_of_Sherlock_Holmes
+- https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B8_%D0%B4%D0%B0_%D0%BF%D0%B0%D0%B4%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B2%D0%B5%D1%81%D0%B0%D1%82%D0%B0_(%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D0%B7)
+- https://commons.wikimedia.org/wiki/Category:His_Last_Bow_(story)
+- https://uk.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%BE_%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%96%D0%B9_%D1%83%D0%BA%D0%BB%D1%96%D0%BD_(%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F)
+- https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BA%D0%BB%D0%BE%D0%BD_(%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7)
+- https://ro.wikipedia.org/wiki/Ultima_reveren%C8%9B%C4%83_(povestire)
+- https://sv.wikipedia.org/wiki/Hans_sista_bragd
