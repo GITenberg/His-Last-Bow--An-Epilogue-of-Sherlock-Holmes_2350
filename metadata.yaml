@@ -1,5 +1,8 @@
 _repo: His-Last-Bow--An-Epilogue-of-Sherlock-Holmes_2350
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -22,6 +25,8 @@ description: "\"His Last Bow\", published in September 1917, is one of 56 short 
   \ the First World War and its patriotic themes, the story has been interpreted as\
   \ a propaganda tool intended to boost morale for British readers.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2350#His-Last-Bow--An-Epilogue-of-Sherlock-Holmes
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
